@@ -1,0 +1,2 @@
+i am inside dark mode.
+bug fix in inside dark-mode.
